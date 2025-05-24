@@ -1,5 +1,5 @@
 <div align=center>
-          <img alt="gif" align="center" src="https://github.com/ahmedtarek26/ahmedtarek26/blob/main/NUX_Octodex_bg.gif" width=300 height=300/>
+          <img alt="gif" align="center" src="https://github.com/medo-hussein/medo-hussein/blob/main/NUX_Octodex_bg.gif" width=400 height=400/>
     </div>
 
 <div align=center>

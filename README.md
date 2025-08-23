@@ -4,7 +4,7 @@
 
 <div align=center>
           <p align="left"> <img src="https://komarev.com/ghpvc/?username=medo-hussein&label=Profile%20views&color=0e75b6&style=flat" alt="medo-hussein" /> </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Hussein+%F0%9F%91%8B;Full+Stack+Developer;Node.Js+Developer;Python+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Hussein+%F0%9F%91%8B;Full+Stack+Developer;Node.Js+Developer;MERN+Stack+Developer" alt="Headline" />
     </div>
 
 - I'm a passionate Software Developer with a Bachelor's degree in Computer Science and Artificial Intelligence.

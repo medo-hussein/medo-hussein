@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **medoh745.ah@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Pj5jFWcxQ3CMcITALA0B7PNcNVnJOB5V/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11NHwK3YAsSSNUpo28YyyUucfWn1IxszB/view?usp=sharing)
 
 - ⚡ Fun fact **I like Playing Football 😁**
 

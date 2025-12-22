@@ -4,29 +4,33 @@
 
 <div align=center>
           <p align="left"> <img src="https://komarev.com/ghpvc/?username=medo-hussein&label=Profile%20views&color=0e75b6&style=flat" alt="medo-hussein" /> </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Hussein+%F0%9F%91%8B;Full+Stack+Developer;Node.Js+Developer;MERN+Stack+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ahmed+Hussein+%F0%9F%91%8B;Node.Js+Developer;MERN+Stack+Developer" alt="Headline" />
     </div>
 
-- I'm a passionate Software Developer with a Bachelor's degree in Computer Science and Artificial Intelligence.
-  
-- I specialize in both front-end and back-end development, with hands-on experience using technologies such as Node.js, Express, PostgreSQL and React.
+- Node.js Developer with a Bachelor's degree from the Faculty of Computers and Artificial Intelligence, Benha University.
 
-- My focus is on building efficient, scalable, and user-centric solutions, while working closely with quality assurance teams to ensure optimal software performance.
+- Graduate of the ITI Intensive Training Program (MERN Stack Track) with strong hands-on backend experience.
 
-- I am responsible, thrive in team-based environments, and constantly seek personal and professional growth through new challenges.
+- Specialized in building scalable backend systems and RESTful APIs using Node.js and Express.
+
+- Experienced with authentication, databases, real-time features, and third-party integrations.
+
+- Working knowledge of React, which helps in collaborating effectively with frontend teams and delivering well-integrated solutions.
+
+- Strong team player, detail-oriented, and always eager to learn and improve.
 
 - 🔭 I’m currently working on Node.JS and Express.Js
 
 - 📫 How to reach me **medoh745.ah@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/143mPYSGHIEPqA4MMz23RAwtjhU-FgqOj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mYLR0rE-TBW9E5x0ifkk2GcJK4XiR1m7/view?usp=sharing)
 
 - ⚡ Fun fact **I like Playing Football 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ahmed-hussein-48261b1bb/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-tarek-4135251b3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-hussein-48261b1bb/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hussein-4135251b3/" height="30" width="40" /></a>
 <a href="https://x.com/medo23c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedta69249896" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahmed.hesseien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.hesseien" height="30" width="40" /></a>
 </p>
